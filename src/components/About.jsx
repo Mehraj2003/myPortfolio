@@ -1,6 +1,6 @@
 import React from "react";
 import myImage from '../assets/profile.jpg';
-import resume from '../assets/MOHD MEHRAJ AHMED.pdf'; // Update the path to your image
+import resume from '../assets/Mohd Mehraj Ahmed.pdf'; 
 
 const About = ({ isDarkMode }) => {
   return (
