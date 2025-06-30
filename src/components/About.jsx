@@ -1,6 +1,6 @@
 import React from "react";
 import myImage from '../assets/profile.jpg';
-import resume from '../assets/Mohd Mehraj Ahmed.pdf'; 
+import resume from '../assets/mehraj resume-1.pdf'; 
 
 const About = ({ isDarkMode }) => {
   return (

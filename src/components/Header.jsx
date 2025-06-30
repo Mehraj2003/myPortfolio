@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import myImage from "../assets/profile.jpg";
-import myResume from "../assets/MOHD MEHRAJ AHMED.pdf";
+import myResume from "../assets/mehraj resume-1.pdf";
 
 const Header = ({ isDarkMode, toggleTheme }) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
