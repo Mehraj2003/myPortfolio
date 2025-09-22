@@ -1,5 +1,5 @@
 import React from "react";
-import myImage from '../assets/profile.jpg';
+import myImage from '../assets/profile.png';
 import resume from '../assets/mehraj resume-1.pdf'; 
 
 const About = ({ isDarkMode }) => {

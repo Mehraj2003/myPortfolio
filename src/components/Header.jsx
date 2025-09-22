@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import myImage from "../assets/profile.jpg";
+import myImage from "../assets/profile.png";
 import myResume from "../assets/mehraj resume-1.pdf";
 
 const Header = ({ isDarkMode, toggleTheme }) => {
